@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/bin/Debug/net6.0/TodoRefresher
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/bin/Debug/net6.0/TodoRefresher.deps.json
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/bin/Debug/net6.0/TodoRefresher.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/bin/Debug/net6.0/TodoRefresher.dll
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/bin/Debug/net6.0/TodoRefresher.pdb
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.dll
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/refint/TodoRefresher.dll
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.pdb
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/TodoRefresher.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/ThursdayRefresher10_27_22/TodoRefresher/obj/Debug/net6.0/ref/TodoRefresher.dll
